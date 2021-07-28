@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ToastGenerator</string>
+    <string name="toast0">A full belly, a heavy purse, and a light heart.</string>
+    <string name="toast1">May we be happy and our enemies know it.</string>
+    <string name="toast2">May your joys be as deep as the ocean, and your misfortunes as light as its foam.</string>
+    <string name="toast3">May we look forward with happiness, and backward without regret.</string>
+    <string name="toast4">The best of happiness, honor, and fortunes keep with you.</string>
+    <string name="toast5">May every day be happier than the last.</string>
+    <string name="toast6">Here\'s to doing and drinking, not sitting and thinking.</string>
+    <string name="toast7">May we always have the class
+To rise and get up off our ass</string>
+    <string name="toast8">Don\'t let the bastards grind you down.</string>
+    <string name="toast9">May the happiest days of your past be the saddest days of your future.</string>
+    <string name="toast10">Here\'s to you, my honest friend, Wishing these hard times to mend.</string>
+    <string name="toast11">A speedy calm to till the storms of life.</string>
+    <string name="toast12">Here\'s to the pressure we face - for it is, after all, pressure that turns coal into diamonds.</string>
+    <string name="toast13">May the sunshine of hope dispel calamity\'s clouds.</string>
+    <string name="toast14">As Shakespeare said in The Mary Wives of Windsor, let us "Drink down all unkindness."</string>
+    <string name="toast15">May you live to learn well, and learn to live well.</string>
+    <string name="toast16">May the Lord love us but not call us too soon.</string>
+    <string name="toast17">May your fire never go out.</string>
+    <string name="toast18">May the clouds in your life be only a background for a lovely sunset.</string>
+    <string name="toast19">May you live to be a hundred-and decide the rest for yourself.</string>
+    <string name="toast20">May you live as long as you want to and may you want to as long as you live.</string>
+    <string name="toast21">As Baba Meher said, "Don't worry, be happy."</string>
+    <string name="toast22">Eat thy bread with joy, and drink thy wine with a merry heart. -Ecclesiastes 9:7</string>
+    <string name="toast23">Here\'s to you from morning till night;
+Here\'s to the person with courage to fight­
+The courage to fight and the courage to live­
+The courage to learn, and to love, and forgive.</string>
+    <string name="toast24">Here\'s to short shoes and long corns for our enemies.</string>
+    <string name="toast25">May we always remember the words of Epictetus, who said, "Only the educated are free."</string>
+    <string name="toast26">My country, great and free!
+Heart of the world, I drink to thee!</string>
+    <string name="toast27">May we always part with regret and meet again with pleasure</string>
+    <string name="toast28">May your luck be like the capital of Ireland--- Always Dublin</string>
+    <string name="toast29">Here\'s to blue skies and green lights.</string>
+    <string name="toast30">Let\'s drink to love, which is nothing-unless it\'s divided by two</string>
+    <string name="first_page">Just click on the button</string>
+    <string name="second_page">and a toast will appear</string>
+    <string name="third_page">enjoy</string>
+    <string name="to_begin">to begin</string>
+    <string name="toast">toast</string>
+
+
+</resources>
